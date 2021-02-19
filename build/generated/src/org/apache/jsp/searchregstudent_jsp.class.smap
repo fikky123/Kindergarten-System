@@ -1,0 +1,18 @@
+SMAP
+searchregstudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 searchregstudent.jsp
+searchregstudent.jsp
+*L
+5,30:49
+35,7:80
+41,43:87
+84,18:131
+101,2:149
+103,3:151,3
+106,2:160
+107,5:162
+111,23:167
+*E
